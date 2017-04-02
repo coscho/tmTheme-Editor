@@ -500,6 +500,7 @@
 {"name":"NodeJS","url":"https://raw.githubusercontent.com/antlong/Textmate-Themes/master/TM1/nodejs.tmtheme","light":false},
 {"name":"Notebook","url":"https://raw.githubusercontent.com/filmgirl/TextMate-Themes/master/Notebook.tmTheme","light":true},
 {"name":"Notepad-Plus-Plus","url":"https://raw.githubusercontent.com/sdeering/Sublime3-Theme-NotepadPlusPlus/master/Notepad-Plus-Plus.tmTheme","light":true},
+{"name":"Notepad++","url":"http://tmtheme-editor.herokuapp.com/#!/editor/local/Notepad++.tmTheme","light":true},
 {"name":"Oasis","url":"https://raw.githubusercontent.com/kodLite/Oasis-Theme/master/Oasis.tmTheme","light":false},
 {"name":"Oblivion Soda Dark","url":"https://raw.githubusercontent.com/jbrooksuk/Oblivion/master/Oblivion%20-%20Soda%20Dark.tmTheme","light":false},
 {"name":"Oblivion","url":"https://raw.githubusercontent.com/jbrooksuk/Oblivion/master/Oblivion.tmTheme","light":false},
